@@ -1,0 +1,2 @@
+model,augmentation,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,test_samples
+efficientnetv2b0_artaug,True,0.9838709677419355,0.9848484848484849,0.9841269841269842,0.9841179807146908,0.9846041055718475,0.9838709677419355,0.9838618191133148,62

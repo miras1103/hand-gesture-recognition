@@ -1,0 +1,4 @@
+model,accuracy,precision_weighted,recall_weighted,f1_weighted,source,status
+SVM (RBF),1.0,1.0,1.0,1.0,Assignment 1 notebook saved output (62-image test split),reported in Assignment 1; not rerun
+CNN without augmentation,0.9354839,0.95,0.94,0.93,Assignment 1 notebook saved output (62-image test split),precision/recall/F1 copied at displayed two-decimal resolution; not rerun
+CNN with augmentation,0.9677419,0.970674,0.967742,0.967704,Assignment 1 notebook saved comparison output (62-image test split),reported in Assignment 1; not rerun

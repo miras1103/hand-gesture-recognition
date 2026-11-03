@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "train_samples": 196,
+  "validation_samples": 49,
+  "test_samples": 62,
+  "class_order": [
+    "peace",
+    "stop",
+    "thumbs_up"
+  ],
+  "image_size": [
+    128,
+    128
+  ],
+  "weights": "imagenet"
+}

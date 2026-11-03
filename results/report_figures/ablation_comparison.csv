@@ -1,0 +1,7 @@
+Measure,Value
+Training images without ArtAug,196
+Training images with ArtAug,226
+Added ArtAug images,30
+Accuracy difference (percentage points),0.000000000000
+Macro F1 difference (percentage points),0.000000000000
+Weighted F1 difference (percentage points),0.000000000000
